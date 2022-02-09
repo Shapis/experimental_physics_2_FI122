@@ -1,0 +1,679 @@
+SciDAVis 2.4.0 project file
+<scripting-lang>	muParser
+<windows>	8
+<table>
+6632
+<table creation_time="2022-08-02 21:03:00:578" caption_spec="%n%C{ - }%c" name="Table1" columns="6" rows="6"><comment><![CDATA[]]></comment><column creation_time="2022-08-02 21:03:00:578" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-08-02 21:03:00:578" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-08-02 21:03:00:578" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">8.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">1.2000000000000000e+01</row><row type="TypeDouble" index="4" invalid="no">1.8000000000000000e+01</row></column><column creation_time="2022-08-02 21:03:00:578" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-08-02 21:03:00:578" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-08-02 21:03:00:578" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="4">col(&quot;1&quot;)*col(&quot;1&quot;)</formula><row type="TypeDouble" index="0" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">1.6000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">6.4000000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">1.4400000000000000e+02</row><row type="TypeDouble" index="4" invalid="no">3.2400000000000000e+02</row></column><column creation_time="2022-08-02 23:04:52:632" caption_spec="%n%C{ - }%c" name="3" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-08-02 23:04:52:632" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-08-02 23:04:52:632" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="3">4</formula><row type="TypeDouble" index="0" invalid="no">4.0999999999999998e-01</row><row type="TypeDouble" index="1" invalid="no">1.6000000000000001e+00</row><row type="TypeDouble" index="2" invalid="no">6.5000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">1.4699999999999999e+01</row><row type="TypeDouble" index="4" invalid="no">3.3000000000000000e+01</row></column><column creation_time="2022-08-02 23:04:52:632" caption_spec="%n%C{ - }%c" name="4" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-08-02 23:04:52:632" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-08-02 23:04:52:632" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="4">4</formula><row type="TypeDouble" index="0" invalid="no">3.1000000000000000e-01</row><row type="TypeDouble" index="1" invalid="no">1.2600000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">5.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">1.1300000000000001e+01</row><row type="TypeDouble" index="4" invalid="no">2.5399999999999999e+01</row></column><column creation_time="2022-08-02 23:04:52:633" caption_spec="%n%C{ - }%c" name="5" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-08-02 23:04:52:633" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-08-02 23:04:52:633" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="4">col(&quot;4&quot;)*col(&quot;4&quot;)</formula><row type="TypeDouble" index="0" invalid="no">2.6000000000000001e-01</row><row type="TypeDouble" index="1" invalid="no">1.0200000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">4.0999999999999996e+00</row><row type="TypeDouble" index="3" invalid="no">9.1999999999999993e+00</row><row type="TypeDouble" index="4" invalid="no">2.0699999999999999e+01</row></column><column creation_time="2022-08-02 23:05:06:597" caption_spec="%n%C{ - }%c" name="6" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-08-02 23:05:06:597" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-08-02 23:05:06:597" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="1" invalid="no">8.1999999999999995e-01</row><row type="TypeDouble" index="2" invalid="no">3.2999999999999998e+00</row><row type="TypeDouble" index="3" invalid="no">7.4000000000000004e+00</row><row type="TypeDouble" index="4" invalid="no">1.6500000000000000e+01</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">120</column_width><column_width column="4">120</column_width><column_width column="5">120</column_width></table>
+geometry	0	0	1281	406	
+
+</table>
+<multiLayer>
+Graph1	1	1	Tuesday, February 8, 2022 11:07:45 PM PST
+geometry	99	466	500	400	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	415	267
+Alignement	0	0
+<graph>
+ggeometry	5	5	481	341
+PlotTitle	Title	#ff000000	4228
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	X Axis Title	Y Axis Title			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	5124	4	5124	4
+TitleFont	Cantarell	13	75	0	0	0
+ScaleFont0	Cantarell	11	75	0	0	0
+ScaleFont1	Cantarell	11	75	0	0	0
+ScaleFont2	Cantarell	11	75	0	0	0
+ScaleFont3	Cantarell	11	75	0	0	0
+AxisFont0	Cantarell	11	50	0	0	0
+AxisFont1	Cantarell	11	50	0	0	0
+AxisFont2	Cantarell	11	50	0	0	0
+AxisFont3	Cantarell	11	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_1	Table1_2	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	4	1
+scale	0	-50	350	0	8	5	0	0
+scale	1	0.15	0.45	0	8	5	0	0
+scale	2	0	20	0	8	5	0	0
+scale	3	1.9985	2.002	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	1.99999985697674	0.440625	Cantarell	11	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_2	</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Graph4	1	1	Wednesday, February 9, 2022 12:51:00 AM PST
+geometry	500	406	500	400	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	418	267
+Alignement	0	0
+<graph>
+ggeometry	5	5	481	341
+PlotTitle	Title	#ff000000	4228
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	X Axis Title	Y Axis Title			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	5124	4	5124	4
+TitleFont	Cantarell	13	75	0	0	0
+ScaleFont0	Cantarell	11	75	0	0	0
+ScaleFont1	Cantarell	11	75	0	0	0
+ScaleFont2	Cantarell	11	75	0	0	0
+ScaleFont3	Cantarell	11	75	0	0	0
+AxisFont0	Cantarell	11	50	0	0	0
+AxisFont1	Cantarell	11	50	0	0	0
+AxisFont2	Cantarell	11	50	0	0	0
+AxisFont3	Cantarell	11	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+scale	0	-5	35	0	8	5	0	0
+scale	1	-5	35	0	8	5	0	0
+scale	2	0	20	0	8	5	0	0
+scale	3	0	20	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	0.477326968973747	33.4674329501916	Cantarell	11	50	0	0	0	#ff000000	1	0	#00ffffff	0		</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Grafico-1	1	1	Wednesday, February 9, 2022 12:52:08 AM PST
+geometry	588	1172	196	24	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	418	267
+Alignement	0	0
+<graph>
+ggeometry	5	5	481	341
+PlotTitle	Deslocamento por Velocidade Inicial^2<br>Piso 1<br>Autor: Henrique Pedro da Silva	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Velocidade Inicial^2 (m/s)	Deslocamento (m)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	Cantarell	13	75	0	0	0
+ScaleFont0	Cantarell	11	75	0	0	0
+ScaleFont1	Cantarell	11	75	0	0	0
+ScaleFont2	Cantarell	11	75	0	0	0
+ScaleFont3	Cantarell	11	75	0	0	0
+AxisFont0	Cantarell	11	50	0	0	0
+AxisFont1	Cantarell	11	50	0	0	0
+AxisFont2	Cantarell	11	50	0	0	0
+AxisFont3	Cantarell	11	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_2	Table1_3	1	0	#ffff0000	0	1	7	1	#ff000000	-1	0	#ff000000	0	1	0	64		2	0	0	4	1
+FunctionCurve	0,LinearFit1,x,4,324	2			0	1	#ffff0000	0	1	7	1	#ff000000	-1	0	#ff000000	0	1	16	64		2	0	-1112764576	22025	1
+<formula>
+B=-0.009630658150515
+A=0.101916944367305
+
+A*x+B
+</formula>
+scale	0	0	35	0	9	5	0	0
+scale	1	0	35	0	8	5	0	0
+scale	2	0	350	0	9	5	0	0
+scale	3	0	350	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	8.43373493975904	33.4162895927602	Cantarell	11	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_3	\c{2}LinearFit1	</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Grafico-2	1	1	Wednesday, February 9, 2022 1:10:10 AM PST
+geometry	0	1172	196	24	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<graph>
+ggeometry	5	5	481	341
+PlotTitle	Deslocamento por Velocidade Inicial^2<br>Piso 2<br>Autor: Henrique Pedro da Silva	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Velocidade Inicial^2 (m/s)	Deslocamento (m)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	Cantarell	13	75	0	0	0
+ScaleFont0	Cantarell	11	75	0	0	0
+ScaleFont1	Cantarell	11	75	0	0	0
+ScaleFont2	Cantarell	11	75	0	0	0
+ScaleFont3	Cantarell	11	75	0	0	0
+AxisFont0	Cantarell	11	50	0	0	0
+AxisFont1	Cantarell	11	50	0	0	0
+AxisFont2	Cantarell	11	50	0	0	0
+AxisFont3	Cantarell	11	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_2	Table1_4	1	0	#ffff0000	0	1	7	1	#ff000000	-1	0	#ff000000	0	1	0	64		2	0	0	4	1
+FunctionCurve	0,LinearFit1,x,4,324	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	16	64		2	0	-1114848624	22025	1
+<formula>
+B=-0.00244376562066151
+A=0.0784098167175784
+
+A*x+B
+</formula>
+scale	0	0	30	0	8	5	0	0
+scale	1	0	30	0	8	5	0	0
+scale	2	0	350	0	9	5	0	0
+scale	3	0	350	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	8.43373493975904	28.5067873303167	Cantarell	11	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_3	\c{2}LinearFit1	</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Grafico-3	1	1	Wednesday, February 9, 2022 1:12:28 AM PST
+geometry	196	1172	196	24	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<graph>
+ggeometry	5	5	481	341
+PlotTitle	Deslocamento por Velocidade Inicial^2<br>Piso 3<br>Autor: Henrique Pedro da Silva	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Velocidade Inicial^2 (m/s)	Deslocamento (m)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	Cantarell	13	75	0	0	0
+ScaleFont0	Cantarell	11	75	0	0	0
+ScaleFont1	Cantarell	11	75	0	0	0
+ScaleFont2	Cantarell	11	75	0	0	0
+ScaleFont3	Cantarell	11	75	0	0	0
+AxisFont0	Cantarell	11	50	0	0	0
+AxisFont1	Cantarell	11	50	0	0	0
+AxisFont2	Cantarell	11	50	0	0	0
+AxisFont3	Cantarell	11	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_2	Table1_5	1	0	#ffff0000	0	1	7	1	#ff000000	-1	0	#ff000000	0	1	0	64		2	0	0	4	1
+FunctionCurve	0,LinearFit1,x,4,324	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	16	64		2	0	-1119523792	22025	1
+<formula>
+B=0.00391002499305593
+A=0.0638776265852078
+
+A*x+B
+</formula>
+scale	0	0	25	0	7	5	0	0
+scale	1	0	25	0	8	5	0	0
+scale	2	0	350	0	9	5	0	0
+scale	3	0	350	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	8.43373493975904	23.6425339366516	Cantarell	11	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_3	\c{2}LinearFit1	</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Grafico-4	1	1	Wednesday, February 9, 2022 1:33:49 AM PST
+geometry	392	1172	196	24	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<graph>
+ggeometry	5	5	481	341
+PlotTitle	Deslocamento por Velocidade Inicial^2<br>Piso 4<br>Autor: Henrique Pedro da Silva	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Velocidade Inicial^2 (m/s)	Deslocamento (m)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	Cantarell	13	75	0	0	0
+ScaleFont0	Cantarell	11	75	0	0	0
+ScaleFont1	Cantarell	11	75	0	0	0
+ScaleFont2	Cantarell	11	75	0	0	0
+ScaleFont3	Cantarell	11	75	0	0	0
+AxisFont0	Cantarell	11	50	0	0	0
+AxisFont1	Cantarell	11	50	0	0	0
+AxisFont2	Cantarell	11	50	0	0	0
+AxisFont3	Cantarell	11	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_2	Table1_6	1	0	#ffff0000	0	1	7	1	#ff000000	-1	0	#ff000000	0	1	0	64		2	0	0	4	1
+FunctionCurve	0,LinearFit1,x,4,324	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	16	64		2	0	-1109667536	22025	1
+<formula>
+B=0.0213718411552346
+A=0.0509296028880866
+
+A*x+B
+</formula>
+scale	0	0	20	0	6	5	0	0
+scale	1	0	20	0	8	5	0	0
+scale	2	0	350	0	9	5	0	0
+scale	3	0	350	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	8.43373493975904	18.8235294117647	Cantarell	11	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_3	\c{2}LinearFit1	</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Grafico-5	1	1	Wednesday, February 9, 2022 1:56:42 AM PST
+geometry	501	406	500	400	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<graph>
+ggeometry	5	5	481	341
+PlotTitle	Grafico di-log do deslocamento por velocidade<br>Piso 4<br>Autor: Henrique Pedro da Silva	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	log v0 (log (m/s) )	log d (log m)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	Cantarell	13	75	0	0	0
+ScaleFont0	Cantarell	11	75	0	0	0
+ScaleFont1	Cantarell	11	75	0	0	0
+ScaleFont2	Cantarell	11	75	0	0	0
+ScaleFont3	Cantarell	11	75	0	0	0
+AxisFont0	Cantarell	11	50	0	0	0
+AxisFont1	Cantarell	11	50	0	0	0
+AxisFont2	Cantarell	11	50	0	0	0
+AxisFont3	Cantarell	11	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_1	Table1_6	1	0	#ffff0000	0	1	7	1	#ff000000	-1	0	#ff000000	0	1	0	64		2	0	0	4	1
+FunctionCurve	0,NonLinearFit1,x,2,18	100			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	16	64		2	0	-1115052144	22025	1
+<formula>
+a=0.0535252334156642
+b=1.98286144587857
+
+a*x^b
+</formula>
+scale	0	0.1	100	0	5	5	1	0
+scale	1	0.1	100	0	8	5	1	0
+scale	2	1	100	0	6	5	1	0
+scale	3	1	100	0	8	5	1	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	1.11948842580385	70.9053055789819	Cantarell	11	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_6	\c{2}NonLinearFit1	</legend>
+</graph>
+</multiLayer>
+<log>
+[Tuesday, February 8, 2022 11:13:16 PM PST	Plot: ''Graph3'']
+Polynomial fit of dataset: Table1_2, using function: a0+a1*x+a2*x^2
+Y standard errors: Unknown
+From x = 2 to x = 18
+a0  = -0.0229320455329467 +/- 0.0418250178333464
+a1  = 0.00374439461883436 +/- 0.0105054789817604
+a2  = 0.101738961710935 +/- 0.000512899513175625
+--------------------------------------------------------------------------------------
+Chi^2 = 0.00189546395308783
+R^2 = 0.99999859602345
+---------------------------------------------------------------------------------------
+[Tuesday, February 8, 2022 11:14:18 PM PST	Plot: ''Graph3'']
+Polynomial fit of dataset: Table1_2, using function: a0+a1*x+a2*x^2
+Y standard errors: Unknown
+From x = 2 to x = 18
+a0  = -0.0229320455329467 +/- 0.0418250178333464
+a1  = 0.00374439461883436 +/- 0.0105054789817604
+a2  = 0.101738961710935 +/- 0.000512899513175625
+--------------------------------------------------------------------------------------
+Chi^2 = 0.00189546395308783
+R^2 = 0.99999859602345
+---------------------------------------------------------------------------------------
+[Tuesday, February 8, 2022 11:17:13 PM PST	Plot: ''Graph3'']
+Polynomial fit of dataset: Table1_2, using function: a0+a1*x+a2*x^2
+Y standard errors: Unknown
+From x = 2 to x = 18
+a0  = -0.0229320455329467 +/- 0.0418250178333464
+a1  = 0.00374439461883436 +/- 0.0105054789817604
+a2  = 0.101738961710935 +/- 0.000512899513175625
+--------------------------------------------------------------------------------------
+Chi^2 = 0.00189546395308783
+R^2 = 0.99999859602345
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 12:18:17 AM PST	Plot: ''Graph3'']
+Polynomial fit of dataset: Table1_3, using function: a0+a1*x+a2*x^2
+Y standard errors: Unknown
+From x = 2 to x = 18
+a0  = -0.0229320455329467 +/- 0.0418250178333464
+a1  = 0.00374439461883436 +/- 0.0105054789817604
+a2  = 0.101738961710935 +/- 0.000512899513175625
+--------------------------------------------------------------------------------------
+Chi^2 = 0.00189546395308783
+R^2 = 0.99999859602345
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 12:54:15 AM PST	Plot: ''Graph6'']
+Non-linear fit of dataset: Table1_3, using function: a0+a1*x
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 4 to x = 324
+a  = 0 +/- nan
+b  = 0 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = nan
+R^2 = nan
+---------------------------------------------------------------------------------------
+Iterations = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 12:54:54 AM PST	Plot: ''Graph6'']
+Linear Regression fit of dataset: Table1_3, using function: A*x+B
+Y standard errors: Unknown
+From x = 4 to x = 324
+B (y-intercept) = -0.009630658150515 +/- 0.0159011226355662
+A (slope) = 0.101916944367305 +/- 9.85842473393538e-05
+--------------------------------------------------------------------------------------
+Chi^2 = 0.00201586133481433
+R^2 = 0.999998506844703
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 1:10:50 AM PST	Plot: ''Grafico-2'']
+Linear Regression fit of dataset: Table1_4, using function: A*x+B
+Y standard errors: Unknown
+From x = 4 to x = 324
+B (y-intercept) = -0.00244376562066151 +/- 0.00750355442040272
+A (slope) = 0.0784098167175784 +/- 4.65207571728753e-05
+--------------------------------------------------------------------------------------
+Chi^2 = 0.000448889197445187
+R^2 = 0.999999438561255
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 1:12:45 AM PST	Plot: ''Graph5'']
+Linear Regression fit of dataset: Table1_5, using function: A*x+B
+Y standard errors: Unknown
+From x = 4 to x = 324
+B (y-intercept) = 0.00391002499305593 +/- 0.00360864592506472
+A (slope) = 0.0638776265852078 +/- 2.23729890392148e-05
+--------------------------------------------------------------------------------------
+Chi^2 = 0.000103823012126265
+R^2 = 0.99999980449411
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 1:34:32 AM PST	Plot: ''Grafico-4'']
+Linear Regression fit of dataset: Table1_6, using function: A*x+B
+Y standard errors: Unknown
+From x = 4 to x = 324
+B (y-intercept) = 0.0213718411552346 +/- 0.0217528277177423
+A (slope) = 0.0509296028880866 +/- 0.000134863820448731
+--------------------------------------------------------------------------------------
+Chi^2 = 0.0037725631768953
+R^2 = 0.99998885875657
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 1:48:15 AM PST	Plot: ''Grafico-1'']
+Linear Regression fit of dataset: Table1_3, using function: A*x+B
+Y standard errors: Unknown
+From x = 4 to x = 324
+B (y-intercept) = -0.009630658150515 +/- 0.0159011226355662
+A (slope) = 0.101916944367305 +/- 9.85842473393538e-05
+--------------------------------------------------------------------------------------
+Chi^2 = 0.00201586133481433
+R^2 = 0.999998506844703
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 1:51:12 AM PST	Plot: ''Grafico-2'']
+Linear Regression fit of dataset: Table1_4, using function: A*x+B
+Y standard errors: Unknown
+From x = 4 to x = 324
+B (y-intercept) = -0.00244376562066151 +/- 0.00750355442040272
+A (slope) = 0.0784098167175784 +/- 4.65207571728753e-05
+--------------------------------------------------------------------------------------
+Chi^2 = 0.000448889197445187
+R^2 = 0.999999438561255
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 1:52:53 AM PST	Plot: ''Grafico-3'']
+Linear Regression fit of dataset: Table1_5, using function: A*x+B
+Y standard errors: Unknown
+From x = 4 to x = 324
+B (y-intercept) = 0.00391002499305593 +/- 0.00360864592506472
+A (slope) = 0.0638776265852078 +/- 2.23729890392148e-05
+--------------------------------------------------------------------------------------
+Chi^2 = 0.000103823012126265
+R^2 = 0.99999980449411
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 1:54:25 AM PST	Plot: ''Grafico-4'']
+Linear Regression fit of dataset: Table1_6, using function: A*x+B
+Y standard errors: Unknown
+From x = 4 to x = 324
+B (y-intercept) = 0.0213718411552346 +/- 0.0217528277177423
+A (slope) = 0.0509296028880866 +/- 0.000134863820448731
+--------------------------------------------------------------------------------------
+Chi^2 = 0.0037725631768953
+R^2 = 0.99998885875657
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 1:59:48 AM PST	Plot: ''Grafico-5'']
+Polynomial fit of dataset: Table1_3, using function: a0+a1*x+a2*x^2
+Y standard errors: Unknown
+From x = 4 to x = 324
+a0  = -0.0216729249226311 +/- 0.0203031889619708
+a1  = 0.102294851724215 +/- 0.000402254131523976
+a2  = -1.14078664785981e-06 +/- 1.1764852872467e-06
+--------------------------------------------------------------------------------------
+Chi^2 = 0.00137122519766979
+R^2 = 0.999998984328866
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 2:00:16 AM PST	Plot: ''Grafico-5'']
+Polynomial fit of dataset: Table1_3, using function: a0+a1*x+a2*x^2+a3*x^3
+Y standard errors: Unknown
+From x = 4 to x = 324
+a0  = -0.00240095121383388 +/- 0.0162590415346105
+a1  = 0.100746113207219 +/- 0.00082680388807756
+a2  = 1.42753616489329e-05 +/- 7.85723288887723e-06
+a3  = -3.34578050454323e-08 +/- 1.69741827116795e-08
+--------------------------------------------------------------------------------------
+Chi^2 = 0.000280687738111564
+R^2 = 0.999999792093645
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 2:01:08 AM PST	Plot: ''Grafico-5'']
+Non-linear fit of dataset: Table1_3, using function: a = k*b^n
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 4 to x = 324
+a  = 1 +/- nan
+b  = 1 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = nan
+R^2 = nan
+---------------------------------------------------------------------------------------
+Iterations = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 2:02:53 AM PST	Plot: ''Grafico-5'']
+Non-linear fit of dataset: Table1_3, using function: a*x^n
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 4 to x = 324
+a  = 1 +/- nan
+b  = 1 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = nan
+R^2 = nan
+---------------------------------------------------------------------------------------
+Iterations = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 2:06:16 AM PST	Plot: ''Grafico-5'']
+Non-linear fit of dataset: Table1_6, using function: a*x^n
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 2 to x = 18
+a  = 1 +/- nan
+b  = 1 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = nan
+R^2 = nan
+---------------------------------------------------------------------------------------
+Iterations = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 2:07:15 AM PST	Plot: ''Grafico-5'']
+Non-linear fit of dataset: Table1_6, using function: a0+a1*x
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 2 to x = 18
+a  = 1 +/- nan
+b  = 1 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = nan
+R^2 = nan
+---------------------------------------------------------------------------------------
+Iterations = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 2:07:18 AM PST	Plot: ''Grafico-5'']
+Non-linear fit of dataset: Table1_6, using function: a0+a1*x
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 2 to x = 18
+a  = 1 +/- nan
+b  = 1 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = nan
+R^2 = nan
+---------------------------------------------------------------------------------------
+Iterations = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 2:07:18 AM PST	Plot: ''Grafico-5'']
+Non-linear fit of dataset: Table1_6, using function: a0+a1*x
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 2 to x = 18
+a  = 1 +/- nan
+b  = 1 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = nan
+R^2 = nan
+---------------------------------------------------------------------------------------
+Iterations = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 2:07:25 AM PST	Plot: ''Grafico-5'']
+Polynomial fit of dataset: Table1_6, using function: a0+a1*x+a2*x^2
+Y standard errors: Unknown
+From x = 2 to x = 18
+a0  = -0.0485201793721994 +/- 0.0203435124222171
+a1  = 0.019674887892377 +/- 0.00510982070631396
+a2  = 0.0499943946188341 +/- 0.000249472161834165
+--------------------------------------------------------------------------------------
+Chi^2 = 0.000448430493273685
+R^2 = 0.999998675682009
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 2:09:50 AM PST	Plot: ''Grafico-5'']
+Non-linear fit of dataset: Table1_6, using function: a*x^n
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 2 to x = 18
+a  = 1 +/- nan
+b  = 1 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = nan
+R^2 = nan
+---------------------------------------------------------------------------------------
+Iterations = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[Wednesday, February 9, 2022 2:11:22 AM PST	Plot: ''Grafico-5'']
+Non-linear fit of dataset: Table1_6, using function: a*x^b
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 2 to x = 18
+a  = 0.0535252334156642 +/- 0.000566080434741485
+b  = 1.98286144587857 +/- 0.00377262888898848
+--------------------------------------------------------------------------------------
+Chi^2 = 0.000636389444229586
+R^2 = 0.999998120596162
+---------------------------------------------------------------------------------------
+Iterations = 16
+Status = success
+---------------------------------------------------------------------------------------
+</log>
