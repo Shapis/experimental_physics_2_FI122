@@ -1,22 +1,22 @@
-SciDAVis 2.4.0 project file
+SciDAVis 2.2.7 project file
 <scripting-lang>	muParser
-<windows>	2
+<windows>	10
 <table>
-22309
-<table creation_time="2022-10-02 04:54:22:756" caption_spec="%n%C{ - }%c" name="Table1" columns="12" rows="30"><comment><![CDATA[]]></comment><column creation_time="2022-10-02 04:54:22:756" caption_spec="%n%C{ - }%c" name="Voltage" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 04:54:22:756" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 04:54:22:756" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">5.0000000000000000e-01</row><row type="TypeDouble" index="1" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">1.5000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">2.5000000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">3.5000000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="8" invalid="no">4.5000000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">5.0000000000000000e+00</row></column><column creation_time="2022-10-02 05:43:18:508" caption_spec="%n%C{ - }%c" name="3" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 05:43:18:508" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 05:43:18:508" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">5.0000000000000000e-01</row><row type="TypeDouble" index="1" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">1.5000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">2.5000000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">3.5000000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="8" invalid="no">4.5000000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">5.0000000000000000e+00</row></column><column creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="Amperage" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">col(&quot;Amperage2&quot;)*10^-3</formula><row type="TypeDouble" index="0" invalid="no">2.0829999999999998e-02</row><row type="TypeDouble" index="1" invalid="no">4.1670000000000006e-02</row><row type="TypeDouble" index="2" invalid="no">6.2500000000000000e-02</row><row type="TypeDouble" index="3" invalid="no">8.3330000000000001e-02</row><row type="TypeDouble" index="4" invalid="no">1.0417000000000000e-01</row><row type="TypeDouble" index="5" invalid="no">1.2500000000000000e-01</row><row type="TypeDouble" index="6" invalid="no">1.4583000000000002e-01</row><row type="TypeDouble" index="7" invalid="no">1.6666999999999998e-01</row><row type="TypeDouble" index="8" invalid="no">1.8750000000000000e-01</row><row type="TypeDouble" index="9" invalid="no">2.0833000000000002e-01</row><row type="TypeDouble" index="10" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="11" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="12" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="13" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="14" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="15" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="16" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="17" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="18" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="19" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="20" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="23" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="24" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="25" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="26" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="27" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="28" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="29" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2022-10-02 04:54:22:757" caption_spec="%n%C{ - }%c" name="Amperage2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 04:54:22:757" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 04:54:22:757" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">i*0.25</formula><row type="TypeDouble" index="0" invalid="no">2.5000000000000000e-01</row><row type="TypeDouble" index="1" invalid="no">5.0000000000000000e-01</row><row type="TypeDouble" index="2" invalid="no">7.5000000000000000e-01</row><row type="TypeDouble" index="3" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">1.2500000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">1.5000000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">1.7500000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="8" invalid="no">2.2500000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">2.5000000000000000e+00</row><row type="TypeDouble" index="10" invalid="no">2.7500000000000000e+00</row><row type="TypeDouble" index="11" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="12" invalid="no">3.2500000000000000e+00</row><row type="TypeDouble" index="13" invalid="no">3.5000000000000000e+00</row><row type="TypeDouble" index="14" invalid="no">3.7500000000000000e+00</row><row type="TypeDouble" index="15" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="16" invalid="no">4.2500000000000000e+00</row><row type="TypeDouble" index="17" invalid="no">4.5000000000000000e+00</row><row type="TypeDouble" index="18" invalid="no">4.7500000000000000e+00</row><row type="TypeDouble" index="19" invalid="no">5.0000000000000000e+00</row><row type="TypeDouble" index="20" invalid="no">5.2500000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">5.5000000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">5.7500000000000000e+00</row><row type="TypeDouble" index="23" invalid="no">6.0000000000000000e+00</row><row type="TypeDouble" index="24" invalid="no">6.2500000000000000e+00</row><row type="TypeDouble" index="25" invalid="no">6.5000000000000000e+00</row><row type="TypeDouble" index="26" invalid="no">6.7500000000000000e+00</row><row type="TypeDouble" index="27" invalid="no">7.0000000000000000e+00</row><row type="TypeDouble" index="28" invalid="no">7.2500000000000000e+00</row><row type="TypeDouble" index="29" invalid="no">7.5000000000000000e+00</row></column><column creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="5" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">2.9969999999999999e+01</row><row type="TypeDouble" index="3" invalid="no">3.9930000000000000e+01</row><row type="TypeDouble" index="4" invalid="no">4.9859999999999999e+01</row><row type="TypeDouble" index="5" invalid="no">5.9740000000000002e+01</row><row type="TypeDouble" index="6" invalid="no">6.9579999999999998e+01</row><row type="TypeDouble" index="7" invalid="no">7.9349999999999994e+01</row><row type="TypeDouble" index="8" invalid="no">8.9040000000000006e+01</row><row type="TypeDouble" index="9" invalid="no">9.8620000000000005e+01</row><row type="TypeDouble" index="10" invalid="no">1.0806999999999999e+02</row><row type="TypeDouble" index="11" invalid="no">1.1734999999999999e+02</row><row type="TypeDouble" index="12" invalid="no">1.2642000000000000e+02</row><row type="TypeDouble" index="13" invalid="no">1.3522999999999999e+02</row><row type="TypeDouble" index="14" invalid="no">1.4374000000000001e+02</row><row type="TypeDouble" index="15" invalid="no">1.5190000000000001e+02</row><row type="TypeDouble" index="16" invalid="no">1.5966999999999999e+02</row><row type="TypeDouble" index="17" invalid="no">1.6703999999999999e+02</row><row type="TypeDouble" index="18" invalid="no">1.7400999999999999e+02</row><row type="TypeDouble" index="19" invalid="no">1.8059999999999999e+02</row></column><column creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="6" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0300000000000001e+01</row><row type="TypeDouble" index="1" invalid="no">2.0210000000000001e+01</row><row type="TypeDouble" index="2" invalid="no">3.0719999999999999e+01</row><row type="TypeDouble" index="3" invalid="no">4.1740000000000002e+01</row><row type="TypeDouble" index="4" invalid="no">5.3469999999999999e+01</row><row type="TypeDouble" index="5" invalid="no">6.6159999999999997e+01</row><row type="TypeDouble" index="6" invalid="no">8.0069999999999993e+01</row><row type="TypeDouble" index="7" invalid="no">9.5569999999999993e+01</row><row type="TypeDouble" index="8" invalid="no">1.1309000000000000e+02</row><row type="TypeDouble" index="9" invalid="no">1.3315000000000001e+02</row><row type="TypeDouble" index="10" invalid="no">1.5641999999999999e+02</row><row type="TypeDouble" index="11" invalid="no">1.8371000000000001e+02</row><row type="TypeDouble" index="12" invalid="no">2.1600999999999999e+02</row><row type="TypeDouble" index="13" invalid="no">2.5443000000000001e+02</row><row type="TypeDouble" index="14" invalid="no">3.0016000000000003e+02</row><row type="TypeDouble" index="15" invalid="no">3.5433999999999997e+02</row><row type="TypeDouble" index="16" invalid="no">4.1781999999999999e+02</row><row type="TypeDouble" index="17" invalid="no">4.9101999999999998e+02</row><row type="TypeDouble" index="18" invalid="no">5.7380999999999995e+02</row><row type="TypeDouble" index="19" invalid="no">6.6552999999999997e+02</row></column><column creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.3997000000000000e+02</row><row type="TypeDouble" index="1" invalid="no">4.7979000000000002e+02</row><row type="TypeDouble" index="2" invalid="no">7.1927999999999997e+02</row><row type="TypeDouble" index="3" invalid="no">9.5825999999999999e+02</row><row type="TypeDouble" index="4" invalid="no">1.2000000000000000e+03</row><row type="TypeDouble" index="5" invalid="no">1.4300000000000000e+03</row><row type="TypeDouble" index="6" invalid="no">1.6700000000000000e+03</row><row type="TypeDouble" index="7" invalid="no">1.9000000000000000e+03</row><row type="TypeDouble" index="8" invalid="no">2.1400000000000000e+03</row><row type="TypeDouble" index="9" invalid="no">2.3700000000000000e+03</row><row type="TypeDouble" index="10" invalid="no">2.5900000000000000e+03</row><row type="TypeDouble" index="11" invalid="no">2.8200000000000000e+03</row><row type="TypeDouble" index="12" invalid="no">3.0300000000000000e+03</row><row type="TypeDouble" index="13" invalid="no">3.2500000000000000e+03</row><row type="TypeDouble" index="14" invalid="no">3.4500000000000000e+03</row><row type="TypeDouble" index="15" invalid="no">3.6500000000000000e+03</row><row type="TypeDouble" index="16" invalid="no">3.8300000000000000e+03</row><row type="TypeDouble" index="17" invalid="no">4.0100000000000000e+03</row><row type="TypeDouble" index="18" invalid="no">4.1800000000000000e+03</row><row type="TypeDouble" index="19" invalid="no">4.3300000000000000e+03</row></column><column creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0000000000000001e-01</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="2" invalid="no">2.9999999999999999e-01</row><row type="TypeDouble" index="3" invalid="no">4.0000000000000002e-01</row><row type="TypeDouble" index="4" invalid="no">5.0000000000000000e-01</row><row type="TypeDouble" index="5" invalid="no">5.9999999999999998e-01</row><row type="TypeDouble" index="6" invalid="no">6.9999999999999996e-01</row><row type="TypeDouble" index="7" invalid="no">1.7000000000000000e+00</row><row type="TypeDouble" index="8" invalid="no">2.7000000000000002e+00</row><row type="TypeDouble" index="9" invalid="no">3.7000000000000002e+00</row><row type="TypeDouble" index="10" invalid="no">4.7000000000000002e+00</row><row type="TypeDouble" index="11" invalid="no">5.5000000000000000e+00</row></column><column creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="4" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0100000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">7.9900000000000002e+00</row><row type="TypeDouble" index="2" invalid="no">5.4990000000000002e+01</row><row type="TypeDouble" index="3" invalid="no">3.3466000000000003e+02</row><row type="TypeDouble" index="4" invalid="no">1.4099999999999999e+00</row><row type="TypeDouble" index="5" invalid="no">3.5699999999999998e+00</row><row type="TypeDouble" index="6" invalid="no">6.4600000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">4.3990000000000002e+01</row><row type="TypeDouble" index="8" invalid="no">8.4250000000000000e+01</row><row type="TypeDouble" index="9" invalid="no">1.2506999999999999e+02</row><row type="TypeDouble" index="10" invalid="no">1.6612000000000000e+02</row><row type="TypeDouble" index="11" invalid="no">1.9906999999999999e+02</row></column><column creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="7" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">9.9980000000000004e+01</row><row type="TypeDouble" index="1" invalid="no">1.9981000000000000e+02</row><row type="TypeDouble" index="2" invalid="no">2.9868000000000001e+02</row><row type="TypeDouble" index="3" invalid="no">3.9197000000000003e+02</row><row type="TypeDouble" index="4" invalid="no">4.6623000000000002e+02</row><row type="TypeDouble" index="5" invalid="no">5.1437000000000000e+02</row><row type="TypeDouble" index="6" invalid="no">5.4504999999999995e+02</row><row type="TypeDouble" index="7" invalid="no">6.4430999999999995e+02</row><row type="TypeDouble" index="8" invalid="no">6.7792999999999995e+02</row><row type="TypeDouble" index="9" invalid="no">6.9836000000000001e+02</row><row type="TypeDouble" index="10" invalid="no">7.1304999999999995e+02</row><row type="TypeDouble" index="11" invalid="no">7.2240999999999997e+02</row></column><column creation_time="2022-10-02 06:44:57:764" caption_spec="%n%C{ - }%c" name="8" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 06:44:57:764" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 06:44:57:764" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.4309999999999999e+01</row><row type="TypeDouble" index="1" invalid="no">1.9166999999999999e+02</row><row type="TypeDouble" index="2" invalid="no">1.3200000000000001e+00</row><row type="TypeDouble" index="3" invalid="no">8.0299999999999994e+00</row><row type="TypeDouble" index="4" invalid="no">3.3770000000000003e+01</row><row type="TypeDouble" index="5" invalid="no">8.5629999999999995e+01</row><row type="TypeDouble" index="6" invalid="no">1.5494999999999999e+02</row><row type="TypeDouble" index="7" invalid="no">1.0600000000000001e+00</row><row type="TypeDouble" index="8" invalid="no">2.0200000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="10" invalid="no">3.9900000000000002e+00</row><row type="TypeDouble" index="11" invalid="no">4.7800000000000002e+00</row></column><column creation_time="2022-10-02 06:44:57:764" caption_spec="%n%C{ - }%c" name="9" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 06:44:57:764" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 06:44:57:764" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">120</column_width><column_width column="4">120</column_width><column_width column="5">120</column_width><column_width column="6">120</column_width><column_width column="7">120</column_width><column_width column="8">120</column_width><column_width column="9">120</column_width><column_width column="10">120</column_width><column_width column="11">120</column_width></table>
-geometry	1	0	1256	406	active
+52083
+<table creation_time="2022-10-02 04:54:22:000" caption_spec="%n%C{ - }%c" name="Table1" columns="20" rows="30"><comment><![CDATA[]]></comment><column creation_time="2022-10-02 04:54:22:756" caption_spec="%n%C{ - }%c" name="Tensao(V)" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 04:54:22:756" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 04:54:22:756" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">5.0000000000000000e-01</row><row type="TypeDouble" index="1" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">1.5000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">2.5000000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">3.5000000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="8" invalid="no">4.5000000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">5.0000000000000000e+00</row></column><column creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="Corrente(A)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">col(&quot;Tensao_Fonte(V)&quot;)*10^-3</formula><row type="TypeDouble" index="0" invalid="no">2.0829999999999998e-02</row><row type="TypeDouble" index="1" invalid="no">4.1670000000000006e-02</row><row type="TypeDouble" index="2" invalid="no">6.2500000000000000e-02</row><row type="TypeDouble" index="3" invalid="no">8.3330000000000001e-02</row><row type="TypeDouble" index="4" invalid="no">1.0417000000000000e-01</row><row type="TypeDouble" index="5" invalid="no">1.2500000000000000e-01</row><row type="TypeDouble" index="6" invalid="no">1.4583000000000002e-01</row><row type="TypeDouble" index="7" invalid="no">1.6666999999999998e-01</row><row type="TypeDouble" index="8" invalid="no">1.8750000000000000e-01</row><row type="TypeDouble" index="9" invalid="no">2.0833000000000002e-01</row><row type="TypeDouble" index="10" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="11" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="12" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="13" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="14" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="15" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="16" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="17" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="18" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="19" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="20" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="23" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="24" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="25" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="26" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="27" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="28" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="29" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2022-10-02 06:44:57:764" caption_spec="%n%C{ - }%c" name="Lei_De_OHM" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 06:44:57:764" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 06:44:57:764" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">col(&quot;Tensao(V)&quot;) / col(&quot;Corrente(A)&quot;)</formula><row type="TypeDouble" index="0" invalid="no">2.4003840614498323e+01</row><row type="TypeDouble" index="1" invalid="no">2.3998080153587711e+01</row><row type="TypeDouble" index="2" invalid="no">2.4000000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">2.4000960038401537e+01</row><row type="TypeDouble" index="4" invalid="no">2.3999232024575214e+01</row><row type="TypeDouble" index="5" invalid="no">2.4000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">2.4000548583967632e+01</row><row type="TypeDouble" index="7" invalid="no">2.3999520009599809e+01</row><row type="TypeDouble" index="8" invalid="no">2.4000000000000000e+01</row><row type="TypeDouble" index="9" invalid="no">2.4000384006144095e+01</row><row type="TypeDouble" index="10" invalid="no">nan</row><row type="TypeDouble" index="11" invalid="no">nan</row><row type="TypeDouble" index="12" invalid="no">nan</row><row type="TypeDouble" index="13" invalid="no">nan</row><row type="TypeDouble" index="14" invalid="no">nan</row><row type="TypeDouble" index="15" invalid="no">nan</row><row type="TypeDouble" index="16" invalid="no">nan</row><row type="TypeDouble" index="17" invalid="no">nan</row><row type="TypeDouble" index="18" invalid="no">nan</row><row type="TypeDouble" index="19" invalid="no">nan</row><row type="TypeDouble" index="20" invalid="no">nan</row><row type="TypeDouble" index="21" invalid="no">nan</row><row type="TypeDouble" index="22" invalid="no">nan</row><row type="TypeDouble" index="23" invalid="no">nan</row><row type="TypeDouble" index="24" invalid="no">nan</row><row type="TypeDouble" index="25" invalid="no">nan</row><row type="TypeDouble" index="26" invalid="no">nan</row><row type="TypeDouble" index="27" invalid="no">nan</row><row type="TypeDouble" index="28" invalid="no">nan</row><row type="TypeDouble" index="29" invalid="no">nan</row></column><column creation_time="2022-10-02 04:54:22:757" caption_spec="%n%C{ - }%c" name="Tensao_Fonte(V)" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 04:54:22:757" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 04:54:22:757" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="27">i*0.25</formula><row type="TypeDouble" index="0" invalid="no">2.5000000000000000e-01</row><row type="TypeDouble" index="1" invalid="no">5.0000000000000000e-01</row><row type="TypeDouble" index="2" invalid="no">7.5000000000000000e-01</row><row type="TypeDouble" index="3" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">1.2500000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">1.5000000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">1.7500000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="8" invalid="no">2.2500000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">2.5000000000000000e+00</row><row type="TypeDouble" index="10" invalid="no">2.7500000000000000e+00</row><row type="TypeDouble" index="11" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="12" invalid="no">3.2500000000000000e+00</row><row type="TypeDouble" index="13" invalid="no">3.5000000000000000e+00</row><row type="TypeDouble" index="14" invalid="no">3.7500000000000000e+00</row><row type="TypeDouble" index="15" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="16" invalid="no">4.2500000000000000e+00</row><row type="TypeDouble" index="17" invalid="no">4.5000000000000000e+00</row><row type="TypeDouble" index="18" invalid="no">4.7500000000000000e+00</row><row type="TypeDouble" index="19" invalid="no">5.0000000000000000e+00</row><row type="TypeDouble" index="20" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="23" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="24" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="25" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="26" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="27" invalid="yes">0.0000000000000000e+00</row></column><column creation_time="2022-10-02 05:43:18:508" caption_spec="%n%C{ - }%c" name="Corrente2(A) 1" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 05:43:18:508" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 05:43:18:508" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">col(&quot;Corrente(mA) 1&quot;)*0.001</formula><row type="TypeDouble" index="0" invalid="no">1.0000000000000000e-02</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000000e-02</row><row type="TypeDouble" index="2" invalid="no">2.9970000000000000e-02</row><row type="TypeDouble" index="3" invalid="no">3.9930000000000000e-02</row><row type="TypeDouble" index="4" invalid="no">4.9860000000000002e-02</row><row type="TypeDouble" index="5" invalid="no">5.9740000000000001e-02</row><row type="TypeDouble" index="6" invalid="no">6.9580000000000003e-02</row><row type="TypeDouble" index="7" invalid="no">7.9349999999999990e-02</row><row type="TypeDouble" index="8" invalid="no">8.9040000000000008e-02</row><row type="TypeDouble" index="9" invalid="no">9.8620000000000013e-02</row><row type="TypeDouble" index="10" invalid="no">1.0807000000000000e-01</row><row type="TypeDouble" index="11" invalid="no">1.1735000000000000e-01</row><row type="TypeDouble" index="12" invalid="no">1.2642000000000000e-01</row><row type="TypeDouble" index="13" invalid="no">1.3522999999999999e-01</row><row type="TypeDouble" index="14" invalid="no">1.4374000000000001e-01</row><row type="TypeDouble" index="15" invalid="no">1.5190000000000001e-01</row><row type="TypeDouble" index="16" invalid="no">1.5966999999999998e-01</row><row type="TypeDouble" index="17" invalid="no">1.6703999999999999e-01</row><row type="TypeDouble" index="18" invalid="no">1.7401000000000000e-01</row><row type="TypeDouble" index="19" invalid="no">1.8060000000000001e-01</row><row type="TypeDouble" index="20" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="23" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="24" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="25" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="26" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="27" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="28" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="29" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="Tensao_Lampada(V)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">col(&quot;Tensao_Lampada(V)&quot;)*0.001</formula><row type="TypeDouble" index="0" invalid="no">1.0029999999999999e-02</row><row type="TypeDouble" index="1" invalid="no">2.0210000000000002e-02</row><row type="TypeDouble" index="2" invalid="no">3.0720000000000001e-02</row><row type="TypeDouble" index="3" invalid="no">4.1740000000000006e-02</row><row type="TypeDouble" index="4" invalid="no">5.3469999999999997e-02</row><row type="TypeDouble" index="5" invalid="no">6.6159999999999997e-02</row><row type="TypeDouble" index="6" invalid="no">8.0069999999999988e-02</row><row type="TypeDouble" index="7" invalid="no">9.5569999999999988e-02</row><row type="TypeDouble" index="8" invalid="no">1.1309000000000001e-01</row><row type="TypeDouble" index="9" invalid="no">1.3315000000000002e-01</row><row type="TypeDouble" index="10" invalid="no">1.5642000000000000e-01</row><row type="TypeDouble" index="11" invalid="no">1.8371000000000001e-01</row><row type="TypeDouble" index="12" invalid="no">2.1601000000000001e-01</row><row type="TypeDouble" index="13" invalid="no">2.5442999999999999e-01</row><row type="TypeDouble" index="14" invalid="no">3.0016000000000004e-01</row><row type="TypeDouble" index="15" invalid="no">3.5433999999999999e-01</row><row type="TypeDouble" index="16" invalid="no">4.1782000000000002e-01</row><row type="TypeDouble" index="17" invalid="no">4.9102000000000001e-01</row><row type="TypeDouble" index="18" invalid="no">5.7380999999999993e-01</row><row type="TypeDouble" index="19" invalid="no">6.6552999999999995e-01</row><row type="TypeDouble" index="20" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="23" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="24" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="25" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="26" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="27" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="28" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="29" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="Tensao_Resistor(V)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">col(&quot;Tensao_Resistor(V)&quot;)*0.001</formula><row type="TypeDouble" index="0" invalid="no">2.3997000000000002e-01</row><row type="TypeDouble" index="1" invalid="no">4.7979000000000005e-01</row><row type="TypeDouble" index="2" invalid="no">7.1928000000000003e-01</row><row type="TypeDouble" index="3" invalid="no">9.5826000000000000e-01</row><row type="TypeDouble" index="4" invalid="no">1.2000000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">1.4299999999999999e+00</row><row type="TypeDouble" index="6" invalid="no">1.6699999999999999e+00</row><row type="TypeDouble" index="7" invalid="no">1.9000000000000001e+00</row><row type="TypeDouble" index="8" invalid="no">2.1400000000000001e+00</row><row type="TypeDouble" index="9" invalid="no">2.3700000000000001e+00</row><row type="TypeDouble" index="10" invalid="no">2.5899999999999999e+00</row><row type="TypeDouble" index="11" invalid="no">2.8199999999999998e+00</row><row type="TypeDouble" index="12" invalid="no">3.0300000000000002e+00</row><row type="TypeDouble" index="13" invalid="no">3.2500000000000000e+00</row><row type="TypeDouble" index="14" invalid="no">3.4500000000000002e+00</row><row type="TypeDouble" index="15" invalid="no">3.6499999999999999e+00</row><row type="TypeDouble" index="16" invalid="no">3.8300000000000001e+00</row><row type="TypeDouble" index="17" invalid="no">4.0099999999999998e+00</row><row type="TypeDouble" index="18" invalid="no">4.1799999999999997e+00</row><row type="TypeDouble" index="19" invalid="no">4.3300000000000001e+00</row><row type="TypeDouble" index="20" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="23" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="24" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="25" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="26" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="27" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="28" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="29" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2022-16-02 23:33:09:904" caption_spec="%n%C{ - }%c" name="Resistencia_Filamento" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-16-02 23:33:09:904" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-16-02 23:33:09:904" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">col(&quot;Tensao_Lampada(V)&quot;)/col(&quot;Corrente2(A) 1&quot;)</formula><row type="TypeDouble" index="0" invalid="no">1.0029999999999999e+00</row><row type="TypeDouble" index="1" invalid="no">1.0105000000000002e+00</row><row type="TypeDouble" index="2" invalid="no">1.0250250250250250e+00</row><row type="TypeDouble" index="3" invalid="no">1.0453293263210619e+00</row><row type="TypeDouble" index="4" invalid="no">1.0724027276373846e+00</row><row type="TypeDouble" index="5" invalid="no">1.1074656846334114e+00</row><row type="TypeDouble" index="6" invalid="no">1.1507617131359584e+00</row><row type="TypeDouble" index="7" invalid="no">1.2044108380592313e+00</row><row type="TypeDouble" index="8" invalid="no">1.2701033243486073e+00</row><row type="TypeDouble" index="9" invalid="no">1.3501318191036300e+00</row><row type="TypeDouble" index="10" invalid="no">1.4473952068104008e+00</row><row type="TypeDouble" index="11" invalid="no">1.5654878568385173e+00</row><row type="TypeDouble" index="12" invalid="no">1.7086695143173549e+00</row><row type="TypeDouble" index="13" invalid="no">1.8814612142276124e+00</row><row type="TypeDouble" index="14" invalid="no">2.0882148323361629e+00</row><row type="TypeDouble" index="15" invalid="no">2.3327188940092163e+00</row><row type="TypeDouble" index="16" invalid="no">2.6167720924406592e+00</row><row type="TypeDouble" index="17" invalid="no">2.9395354406130272e+00</row><row type="TypeDouble" index="18" invalid="no">3.2975691052238374e+00</row><row type="TypeDouble" index="19" invalid="no">3.6851052048726465e+00</row><row type="TypeDouble" index="20" invalid="no">nan</row><row type="TypeDouble" index="21" invalid="no">nan</row><row type="TypeDouble" index="22" invalid="no">nan</row><row type="TypeDouble" index="23" invalid="no">nan</row><row type="TypeDouble" index="24" invalid="no">nan</row><row type="TypeDouble" index="25" invalid="no">nan</row><row type="TypeDouble" index="26" invalid="no">nan</row><row type="TypeDouble" index="27" invalid="no">nan</row><row type="TypeDouble" index="28" invalid="no">nan</row><row type="TypeDouble" index="29" invalid="no">nan</row></column><column creation_time="2022-16-02 23:33:09:904" caption_spec="%n%C{ - }%c" name="Resistividade_Filamento" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-16-02 23:33:09:904" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-16-02 23:33:09:904" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">5.65e-8*col(&quot;Resistencia_Filamento&quot;)/1.33724812814</formula><row type="TypeDouble" index="0" invalid="no">4.2377700000090872e-08</row><row type="TypeDouble" index="1" invalid="no">4.2694582103780500e-08</row><row type="TypeDouble" index="2" invalid="no">4.3308278168590383e-08</row><row type="TypeDouble" index="3" invalid="no">4.4166154129741839e-08</row><row type="TypeDouble" index="4" invalid="no">4.5310030978161777e-08</row><row type="TypeDouble" index="5" invalid="no">4.6791474121425691e-08</row><row type="TypeDouble" index="6" invalid="no">4.8620772333864689e-08</row><row type="TypeDouble" index="7" invalid="no">5.0887498676103827e-08</row><row type="TypeDouble" index="8" invalid="no">5.3663068443034294e-08</row><row type="TypeDouble" index="9" invalid="no">5.7044348146112260e-08</row><row type="TypeDouble" index="10" invalid="no">6.1153818400578922e-08</row><row type="TypeDouble" index="11" invalid="no">6.6143344716737696e-08</row><row type="TypeDouble" index="12" invalid="no">7.2192905360958977e-08</row><row type="TypeDouble" index="13" invalid="no">7.9493518343314533e-08</row><row type="TypeDouble" index="14" invalid="no">8.8229054536871372e-08</row><row type="TypeDouble" index="15" invalid="no">9.8559582726686304e-08</row><row type="TypeDouble" index="16" invalid="no">1.1056109940384879e-07</row><row type="TypeDouble" index="17" invalid="no">1.2419815657221715e-07</row><row type="TypeDouble" index="18" invalid="no">1.3932541801669382e-07</row><row type="TypeDouble" index="19" invalid="no">1.5569918528501143e-07</row><row type="TypeDouble" index="20" invalid="no">nan</row><row type="TypeDouble" index="21" invalid="no">nan</row><row type="TypeDouble" index="22" invalid="no">nan</row><row type="TypeDouble" index="23" invalid="no">nan</row><row type="TypeDouble" index="24" invalid="no">nan</row><row type="TypeDouble" index="25" invalid="no">nan</row><row type="TypeDouble" index="26" invalid="no">nan</row><row type="TypeDouble" index="27" invalid="no">nan</row><row type="TypeDouble" index="28" invalid="no">nan</row><row type="TypeDouble" index="29" invalid="no">nan</row></column><column creation_time="2022-16-02 23:33:09:904" caption_spec="%n%C{ - }%c" name="Temperatura_Filamento(K)" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-16-02 23:33:09:904" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-16-02 23:33:09:904" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">(3.05e8 * col(&quot;Resistividade_Filamento&quot;) )^(0.83)</formula><row type="TypeDouble" index="0" invalid="no">8.3655190760193001e+00</row><row type="TypeDouble" index="1" invalid="no">8.4174057695780089e+00</row><row type="TypeDouble" index="2" invalid="no">8.5177076182647600e+00</row><row type="TypeDouble" index="3" invalid="no">8.6575143711324731e+00</row><row type="TypeDouble" index="4" invalid="no">8.8432150166622225e+00</row><row type="TypeDouble" index="5" invalid="no">9.0825385620754489e+00</row><row type="TypeDouble" index="6" invalid="no">9.3762894313185097e+00</row><row type="TypeDouble" index="7" invalid="no">9.7376931035201846e+00</row><row type="TypeDouble" index="8" invalid="no">1.0176525689074772e+01</row><row type="TypeDouble" index="9" invalid="no">1.0705953252609216e+01</row><row type="TypeDouble" index="10" invalid="no">1.1342281911529581e+01</row><row type="TypeDouble" index="11" invalid="no">1.2105211260237501e+01</row><row type="TypeDouble" index="12" invalid="no">1.3017252177703593e+01</row><row type="TypeDouble" index="13" invalid="no">1.4100814308915648e+01</row><row type="TypeDouble" index="14" invalid="no">1.5375403281127296e+01</row><row type="TypeDouble" index="15" invalid="no">1.6855394330499230e+01</row><row type="TypeDouble" index="16" invalid="no">1.8542095604712955e+01</row><row type="TypeDouble" index="17" invalid="no">2.0421349636748655e+01</row><row type="TypeDouble" index="18" invalid="no">2.2465395107103383e+01</row><row type="TypeDouble" index="19" invalid="no">2.4635792013330416e+01</row><row type="TypeDouble" index="20" invalid="no">nan</row><row type="TypeDouble" index="21" invalid="no">nan</row><row type="TypeDouble" index="22" invalid="no">nan</row><row type="TypeDouble" index="23" invalid="no">nan</row><row type="TypeDouble" index="24" invalid="no">nan</row><row type="TypeDouble" index="25" invalid="no">nan</row><row type="TypeDouble" index="26" invalid="no">nan</row><row type="TypeDouble" index="27" invalid="no">nan</row><row type="TypeDouble" index="28" invalid="no">nan</row><row type="TypeDouble" index="29" invalid="no">nan</row></column><column creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="Corrente(mA) 1" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 05:43:18:509" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">2.9969999999999999e+01</row><row type="TypeDouble" index="3" invalid="no">3.9930000000000000e+01</row><row type="TypeDouble" index="4" invalid="no">4.9859999999999999e+01</row><row type="TypeDouble" index="5" invalid="no">5.9740000000000002e+01</row><row type="TypeDouble" index="6" invalid="no">6.9579999999999998e+01</row><row type="TypeDouble" index="7" invalid="no">7.9349999999999994e+01</row><row type="TypeDouble" index="8" invalid="no">8.9040000000000006e+01</row><row type="TypeDouble" index="9" invalid="no">9.8620000000000005e+01</row><row type="TypeDouble" index="10" invalid="no">1.0806999999999999e+02</row><row type="TypeDouble" index="11" invalid="no">1.1734999999999999e+02</row><row type="TypeDouble" index="12" invalid="no">1.2642000000000000e+02</row><row type="TypeDouble" index="13" invalid="no">1.3522999999999999e+02</row><row type="TypeDouble" index="14" invalid="no">1.4374000000000001e+02</row><row type="TypeDouble" index="15" invalid="no">1.5190000000000001e+02</row><row type="TypeDouble" index="16" invalid="no">1.5966999999999999e+02</row><row type="TypeDouble" index="17" invalid="no">1.6703999999999999e+02</row><row type="TypeDouble" index="18" invalid="no">1.7400999999999999e+02</row><row type="TypeDouble" index="19" invalid="no">1.8059999999999999e+02</row></column><column creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="Tensao_Fonte(V) 1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0000000000000001e-01</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="2" invalid="no">2.9999999999999999e-01</row><row type="TypeDouble" index="3" invalid="no">4.0000000000000002e-01</row><row type="TypeDouble" index="4" invalid="no">5.0000000000000000e-01</row><row type="TypeDouble" index="5" invalid="no">5.9999999999999998e-01</row><row type="TypeDouble" index="6" invalid="no">6.9999999999999996e-01</row><row type="TypeDouble" index="7" invalid="no">1.7000000000000000e+00</row><row type="TypeDouble" index="8" invalid="no">2.7000000000000002e+00</row><row type="TypeDouble" index="9" invalid="no">3.7000000000000002e+00</row><row type="TypeDouble" index="10" invalid="no">4.7000000000000002e+00</row><row type="TypeDouble" index="11" invalid="no">5.5000000000000000e+00</row></column><column creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="Corrente_Diodo(A)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0099999999999999e-12</row><row type="TypeDouble" index="1" invalid="no">7.9899999999999997e-12</row><row type="TypeDouble" index="2" invalid="no">5.4990000000000002e-11</row><row type="TypeDouble" index="3" invalid="no">3.3466000000000001e-10</row><row type="TypeDouble" index="4" invalid="no">1.4100000000000000e-03</row><row type="TypeDouble" index="5" invalid="no">3.5699999999999998e-03</row><row type="TypeDouble" index="6" invalid="no">6.4599999999999996e-03</row><row type="TypeDouble" index="7" invalid="no">4.3990000000000001e-02</row><row type="TypeDouble" index="8" invalid="no">8.4250000000000005e-02</row><row type="TypeDouble" index="9" invalid="no">1.2506999999999999e-01</row><row type="TypeDouble" index="10" invalid="no">1.6611999999999999e-01</row><row type="TypeDouble" index="11" invalid="no">1.9907000000000000e-01</row></column><column creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="Tensao_Diodo(V)" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 06:21:45:000" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">col(&quot;Tensao_Diodo(V)&quot;)*0.001</formula><row type="TypeDouble" index="0" invalid="no">9.9979999999999999e-02</row><row type="TypeDouble" index="1" invalid="no">1.9981000000000002e-01</row><row type="TypeDouble" index="2" invalid="no">2.9868000000000000e-01</row><row type="TypeDouble" index="3" invalid="no">3.9197000000000004e-01</row><row type="TypeDouble" index="4" invalid="no">4.6623000000000003e-01</row><row type="TypeDouble" index="5" invalid="no">5.1436999999999999e-01</row><row type="TypeDouble" index="6" invalid="no">5.4504999999999992e-01</row><row type="TypeDouble" index="7" invalid="no">6.4430999999999994e-01</row><row type="TypeDouble" index="8" invalid="no">6.7792999999999992e-01</row><row type="TypeDouble" index="9" invalid="no">6.9835999999999998e-01</row><row type="TypeDouble" index="10" invalid="no">7.1304999999999996e-01</row><row type="TypeDouble" index="11" invalid="no">7.2241000000000000e-01</row><row type="TypeDouble" index="12" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="13" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="14" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="15" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="16" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="17" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="18" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="19" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="20" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="23" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="24" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="25" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="26" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="27" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="28" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="29" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2022-10-02 06:44:57:764" caption_spec="%n%C{ - }%c" name="Tensao_Resistor(V) 2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-10-02 06:44:57:764" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-10-02 06:44:57:764" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.4310000000000001e-11</row><row type="TypeDouble" index="1" invalid="no">1.9167000000000000e-10</row><row type="TypeDouble" index="2" invalid="no">1.3200000000000000e-03</row><row type="TypeDouble" index="3" invalid="no">8.0300000000000007e-03</row><row type="TypeDouble" index="4" invalid="no">3.3770000000000001e-02</row><row type="TypeDouble" index="5" invalid="no">8.5629999999999998e-02</row><row type="TypeDouble" index="6" invalid="no">1.5495000000000000e-01</row><row type="TypeDouble" index="7" invalid="no">1.0600000000000001e+00</row><row type="TypeDouble" index="8" invalid="no">2.0200000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="10" invalid="no">3.9900000000000002e+00</row><row type="TypeDouble" index="11" invalid="no">4.7800000000000002e+00</row></column><column creation_time="2022-17-02 00:43:40:625" caption_spec="%n%C{ - }%c" name="Vr/Ir por Vr*I" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-17-02 00:43:40:625" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-17-02 00:43:40:625" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">(col(&quot;Tensao_Resistor(V)&quot;)/col(&quot;Corrente2(A) 1&quot;))</formula><row type="TypeDouble" index="0" invalid="no">2.3997000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">2.3989500000000003e+01</row><row type="TypeDouble" index="2" invalid="no">2.4000000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">2.3998497370398198e+01</row><row type="TypeDouble" index="4" invalid="no">2.4067388688327316e+01</row><row type="TypeDouble" index="5" invalid="no">2.3937060595915632e+01</row><row type="TypeDouble" index="6" invalid="no">2.4001149755676916e+01</row><row type="TypeDouble" index="7" invalid="no">2.3944549464398239e+01</row><row type="TypeDouble" index="8" invalid="no">2.4034141958670261e+01</row><row type="TypeDouble" index="9" invalid="no">2.4031636584871222e+01</row><row type="TypeDouble" index="10" invalid="no">2.3965947996668824e+01</row><row type="TypeDouble" index="11" invalid="no">2.4030677460587984e+01</row><row type="TypeDouble" index="12" invalid="no">2.3967726625533935e+01</row><row type="TypeDouble" index="13" invalid="no">2.4033128743621980e+01</row><row type="TypeDouble" index="14" invalid="no">2.4001669681369140e+01</row><row type="TypeDouble" index="15" invalid="no">2.4028966425279787e+01</row><row type="TypeDouble" index="16" invalid="no">2.3986973132084930e+01</row><row type="TypeDouble" index="17" invalid="no">2.4006226053639846e+01</row><row type="TypeDouble" index="18" invalid="no">2.4021607953565887e+01</row><row type="TypeDouble" index="19" invalid="no">2.3975636766334439e+01</row><row type="TypeDouble" index="20" invalid="no">nan</row><row type="TypeDouble" index="21" invalid="no">nan</row><row type="TypeDouble" index="22" invalid="no">nan</row><row type="TypeDouble" index="23" invalid="no">nan</row><row type="TypeDouble" index="24" invalid="no">nan</row><row type="TypeDouble" index="25" invalid="no">nan</row><row type="TypeDouble" index="26" invalid="no">nan</row><row type="TypeDouble" index="27" invalid="no">nan</row><row type="TypeDouble" index="28" invalid="no">nan</row><row type="TypeDouble" index="29" invalid="no">nan</row></column><column creation_time="2022-17-02 00:43:43:677" caption_spec="%n%C{ - }%c" name="3" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-17-02 00:43:43:677" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-17-02 00:43:43:677" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">(col(&quot;Tensao_Resistor(V)&quot;)*col(&quot;Corrente2(A) 1&quot;))</formula><row type="TypeDouble" index="0" invalid="no">2.3997000000000003e-03</row><row type="TypeDouble" index="1" invalid="no">9.5958000000000016e-03</row><row type="TypeDouble" index="2" invalid="no">2.1556821600000001e-02</row><row type="TypeDouble" index="3" invalid="no">3.8263321800000000e-02</row><row type="TypeDouble" index="4" invalid="no">5.9831999999999996e-02</row><row type="TypeDouble" index="5" invalid="no">8.5428199999999996e-02</row><row type="TypeDouble" index="6" invalid="no">1.1619860000000000e-01</row><row type="TypeDouble" index="7" invalid="no">1.5076499999999998e-01</row><row type="TypeDouble" index="8" invalid="no">1.9054560000000004e-01</row><row type="TypeDouble" index="9" invalid="no">2.3372940000000003e-01</row><row type="TypeDouble" index="10" invalid="no">2.7990129999999996e-01</row><row type="TypeDouble" index="11" invalid="no">3.3092699999999997e-01</row><row type="TypeDouble" index="12" invalid="no">3.8305260000000002e-01</row><row type="TypeDouble" index="13" invalid="no">4.3949749999999999e-01</row><row type="TypeDouble" index="14" invalid="no">4.9590300000000004e-01</row><row type="TypeDouble" index="15" invalid="no">5.5443500000000001e-01</row><row type="TypeDouble" index="16" invalid="no">6.1153609999999992e-01</row><row type="TypeDouble" index="17" invalid="no">6.6983039999999994e-01</row><row type="TypeDouble" index="18" invalid="no">7.2736179999999995e-01</row><row type="TypeDouble" index="19" invalid="no">7.8199800000000008e-01</row><row type="TypeDouble" index="20" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="23" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="24" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="25" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="26" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="27" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="28" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="29" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2022-17-02 00:50:51:755" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-17-02 00:50:51:755" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-17-02 00:50:51:755" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">col(&quot;Tensao_Lampada(V)&quot;)/col(&quot;Corrente2(A) 1&quot;)</formula><row type="TypeDouble" index="0" invalid="no">1.0029999999999999e+00</row><row type="TypeDouble" index="1" invalid="no">1.0105000000000002e+00</row><row type="TypeDouble" index="2" invalid="no">1.0250250250250250e+00</row><row type="TypeDouble" index="3" invalid="no">1.0453293263210619e+00</row><row type="TypeDouble" index="4" invalid="no">1.0724027276373846e+00</row><row type="TypeDouble" index="5" invalid="no">1.1074656846334114e+00</row><row type="TypeDouble" index="6" invalid="no">1.1507617131359584e+00</row><row type="TypeDouble" index="7" invalid="no">1.2044108380592313e+00</row><row type="TypeDouble" index="8" invalid="no">1.2701033243486073e+00</row><row type="TypeDouble" index="9" invalid="no">1.3501318191036300e+00</row><row type="TypeDouble" index="10" invalid="no">1.4473952068104008e+00</row><row type="TypeDouble" index="11" invalid="no">1.5654878568385173e+00</row><row type="TypeDouble" index="12" invalid="no">1.7086695143173549e+00</row><row type="TypeDouble" index="13" invalid="no">1.8814612142276124e+00</row><row type="TypeDouble" index="14" invalid="no">2.0882148323361629e+00</row><row type="TypeDouble" index="15" invalid="no">2.3327188940092163e+00</row><row type="TypeDouble" index="16" invalid="no">2.6167720924406592e+00</row><row type="TypeDouble" index="17" invalid="no">2.9395354406130272e+00</row><row type="TypeDouble" index="18" invalid="no">3.2975691052238374e+00</row><row type="TypeDouble" index="19" invalid="no">3.6851052048726465e+00</row><row type="TypeDouble" index="20" invalid="no">nan</row><row type="TypeDouble" index="21" invalid="no">nan</row><row type="TypeDouble" index="22" invalid="no">nan</row><row type="TypeDouble" index="23" invalid="no">nan</row><row type="TypeDouble" index="24" invalid="no">nan</row><row type="TypeDouble" index="25" invalid="no">nan</row><row type="TypeDouble" index="26" invalid="no">nan</row><row type="TypeDouble" index="27" invalid="no">nan</row><row type="TypeDouble" index="28" invalid="no">nan</row><row type="TypeDouble" index="29" invalid="no">nan</row></column><column creation_time="2022-17-02 00:50:53:424" caption_spec="%n%C{ - }%c" name="5" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-17-02 00:50:53:424" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-17-02 00:50:53:424" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">col(&quot;Tensao_Lampada(V)&quot;)*col(&quot;Corrente2(A) 1&quot;)</formula><row type="TypeDouble" index="0" invalid="no">1.0030000000000000e-04</row><row type="TypeDouble" index="1" invalid="no">4.0420000000000007e-04</row><row type="TypeDouble" index="2" invalid="no">9.2067840000000000e-04</row><row type="TypeDouble" index="3" invalid="no">1.6666782000000003e-03</row><row type="TypeDouble" index="4" invalid="no">2.6660142000000000e-03</row><row type="TypeDouble" index="5" invalid="no">3.9523983999999995e-03</row><row type="TypeDouble" index="6" invalid="no">5.5712705999999990e-03</row><row type="TypeDouble" index="7" invalid="no">7.5834794999999977e-03</row><row type="TypeDouble" index="8" invalid="no">1.0069533600000001e-02</row><row type="TypeDouble" index="9" invalid="no">1.3131253000000004e-02</row><row type="TypeDouble" index="10" invalid="no">1.6904309400000001e-02</row><row type="TypeDouble" index="11" invalid="no">2.1558368500000001e-02</row><row type="TypeDouble" index="12" invalid="no">2.7307984200000003e-02</row><row type="TypeDouble" index="13" invalid="no">3.4406568899999997e-02</row><row type="TypeDouble" index="14" invalid="no">4.3144998400000009e-02</row><row type="TypeDouble" index="15" invalid="no">5.3824245999999999e-02</row><row type="TypeDouble" index="16" invalid="no">6.6713319399999998e-02</row><row type="TypeDouble" index="17" invalid="no">8.2019980800000003e-02</row><row type="TypeDouble" index="18" invalid="no">9.9848678099999991e-02</row><row type="TypeDouble" index="19" invalid="no">1.2019471799999999e-01</row><row type="TypeDouble" index="20" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="23" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="24" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="25" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="26" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="27" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="28" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="29" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2022-17-02 00:54:05:387" caption_spec="%n%C{ - }%c" name="6" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2022-17-02 00:54:05:387" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2022-17-02 00:54:05:387" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">((col(&quot;Tensao_Lampada(V)&quot;)^2)/col(&quot;Resistencia_Filamento&quot;)) </formula><row type="TypeDouble" index="0" invalid="no">1.0029999999999998e-04</row><row type="TypeDouble" index="1" invalid="no">4.0420000000000001e-04</row><row type="TypeDouble" index="2" invalid="no">9.2067840000000000e-04</row><row type="TypeDouble" index="3" invalid="no">1.6666782000000003e-03</row><row type="TypeDouble" index="4" invalid="no">2.6660141999999996e-03</row><row type="TypeDouble" index="5" invalid="no">3.9523983999999995e-03</row><row type="TypeDouble" index="6" invalid="no">5.5712705999999990e-03</row><row type="TypeDouble" index="7" invalid="no">7.5834794999999977e-03</row><row type="TypeDouble" index="8" invalid="no">1.0069533600000003e-02</row><row type="TypeDouble" index="9" invalid="no">1.3131253000000004e-02</row><row type="TypeDouble" index="10" invalid="no">1.6904309400000001e-02</row><row type="TypeDouble" index="11" invalid="no">2.1558368500000001e-02</row><row type="TypeDouble" index="12" invalid="no">2.7307984200000003e-02</row><row type="TypeDouble" index="13" invalid="no">3.4406568899999997e-02</row><row type="TypeDouble" index="14" invalid="no">4.3144998400000002e-02</row><row type="TypeDouble" index="15" invalid="no">5.3824246000000006e-02</row><row type="TypeDouble" index="16" invalid="no">6.6713319399999998e-02</row><row type="TypeDouble" index="17" invalid="no">8.2019980799999989e-02</row><row type="TypeDouble" index="18" invalid="no">9.9848678099999991e-02</row><row type="TypeDouble" index="19" invalid="no">1.2019471799999999e-01</row><row type="TypeDouble" index="20" invalid="no">nan</row><row type="TypeDouble" index="21" invalid="no">nan</row><row type="TypeDouble" index="22" invalid="no">nan</row><row type="TypeDouble" index="23" invalid="no">nan</row><row type="TypeDouble" index="24" invalid="no">nan</row><row type="TypeDouble" index="25" invalid="no">nan</row><row type="TypeDouble" index="26" invalid="no">nan</row><row type="TypeDouble" index="27" invalid="no">nan</row><row type="TypeDouble" index="28" invalid="no">nan</row><row type="TypeDouble" index="29" invalid="no">nan</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">148</column_width><column_width column="4">137</column_width><column_width column="5">173</column_width><column_width column="6">164</column_width><column_width column="7">176</column_width><column_width column="8">162</column_width><column_width column="9">195</column_width><column_width column="10">120</column_width><column_width column="11">137</column_width><column_width column="12">135</column_width><column_width column="13">148</column_width><column_width column="14">139</column_width><column_width column="15">120</column_width><column_width column="16">120</column_width><column_width column="17">120</column_width><column_width column="18">120</column_width><column_width column="19">120</column_width></table>
+geometry	1	0	1683	507	
 
 </table>
 <multiLayer>
 Graph1	1	1	Thursday, February 10, 2022 5:56:11 AM PST
-geometry	0	1187	196	24	minimized	
+geometry	0	1187	400	300	
 WindowLabel		2
 Margins	5	5	5	5
 Spacing	5	5
 LayerCanvasSize	415	267
 Alignement	0	0
 <graph>
-ggeometry	5	5	481	341
+ggeometry	4	3	374	231
 PlotTitle	Corrente versus tensao no resistor<br>Autor: Henrique da Silva	#ff000000	4
 <Antialiasing>1</Antialiasing>
 Background	#ffffffff	255
@@ -41,16 +41,224 @@ AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
 AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
 AxesBaseline	0	0	0	0	
 CanvasBackground	#ffffffff	255
-curve	Table1_3	Table1_Amperage	1	0	#ff000000	0	1	7	1	#ff000000	-1	0	#ff000000	0	1	0	64		2	0	0	29	1
-FunctionCurve	0,LinearFit1,x,0.5,5	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	16	64		2	0	-1210094448	21919	1
+FunctionCurve	0,LinearFit1,x,0.5,5	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	0	64		2	0	1230977568	520	1
 <formula>
 B=0
 A=0.0416665454545455
 
 A*x+B
+
+
 </formula>
 scale	0	0	0.25	0	8	5	0	0
 scale	1	0	0.25	0	8	5	0	0
+scale	2	0	5	0	8	5	0	0
+scale	3	0	6	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	0.13986013986014	0.2421875	Cantarell	11	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}LinearFit1</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Graph2	1	1	Wednesday, February 16, 2022 10:28:42 PM Pacific Standard Time
+geometry	9	520	500	400	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	422	271
+Alignement	0	0
+<graph>
+ggeometry	5	5	474	331
+PlotTitle	Corrente vs Tensao no resistor<br>Autor: Henrique Pedro da Silva	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Tensao no resistor (V)	Corrente no resistor (A)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	MS Shell Dlg 2	10	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	8	75	0	0	0
+AxisFont0	MS Shell Dlg 2	8	50	0	0	0
+AxisFont1	MS Shell Dlg 2	8	50	0	0	0
+AxisFont2	MS Shell Dlg 2	8	50	0	0	0
+AxisFont3	MS Shell Dlg 2	8	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+FunctionCurve	0,LinearFit1,x,0.5,5	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	0	64		2	0	1230983616	520	1
+<formula>
+B=0
+A=0.0416665454545455
+
+A*x+B
+
+</formula>
+scale	0	0	0.25	0	8	5	0	0
+scale	1	0	0.25	0	8	5	0	0
+scale	2	0	5	0	8	5	0	0
+scale	3	0	6	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	0.143198090692124	0.24003984063745	MS Shell Dlg 2	8	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}LinearFit1</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Graph4	1	1	Thursday, February 17, 2022 12:37:51 AM Pacific Standard Time
+geometry	0	895	160	31	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	424	271
+Alignement	0	0
+<graph>
+ggeometry	5	5	473	330
+PlotTitle	Corrente vs tensao na lampada<br>Autor: Henrique Pedro da Silva	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Tensao na lampada (V)	Corrente na lampada (A)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	MS Shell Dlg 2	10	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	8	75	0	0	0
+AxisFont0	MS Shell Dlg 2	8	50	0	0	0
+AxisFont1	MS Shell Dlg 2	8	50	0	0	0
+AxisFont2	MS Shell Dlg 2	8	50	0	0	0
+AxisFont3	MS Shell Dlg 2	8	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_Corrente2(A) 1	Table1_Tensao_Lampada(V)	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	29	1
+scale	0	-0.1	0.7	0	8	5	0	0
+scale	1	-0.1	0.8	0	8	5	0	0
+scale	2	-0.05	0.2	0	8	5	0	0
+scale	3	-0.05	0.2	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	-0.0439903846153846	0.952191235059761	MS Shell Dlg 2	8	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_Tensao_Lampada(V)</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Graph5	1	1	Thursday, February 17, 2022 12:40:13 AM Pacific Standard Time
+geometry	800	895	160	31	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<graph>
+ggeometry	5	5	473	330
+PlotTitle	Corrente vs tensao no resistor<br>Autor: Henrique Pedro da Silva	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Tensao no resistor (V)	Corrente no resistor (A)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	MS Shell Dlg 2	10	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	8	75	0	0	0
+AxisFont0	MS Shell Dlg 2	8	50	0	0	0
+AxisFont1	MS Shell Dlg 2	8	50	0	0	0
+AxisFont2	MS Shell Dlg 2	8	50	0	0	0
+AxisFont3	MS Shell Dlg 2	8	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_Corrente2(A) 1	Table1_Tensao_Resistor(V)	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	29	1
+scale	0	-1	5	0	8	5	0	0
+scale	1	-1	5	0	8	5	0	0
+scale	2	-0.05	0.2	0	8	5	0	0
+scale	3	-0.05	0.2	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	-0.185915492957747	4.85657370517928	MS Shell Dlg 2	8	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_Tensao_Lampada(V)</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Graph6	1	1	Thursday, February 17, 2022 12:48:35 AM Pacific Standard Time
+geometry	640	895	160	31	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	416	271
+Alignement	0	0
+<graph>
+ggeometry	5	5	473	330
+PlotTitle	Vr / I em funcao de Vr*I<br>Autor: Henrique Pedro da Silva	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Vr * I (A*V)	Resistencia do resistor (Ohms)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	MS Shell Dlg 2	10	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	8	75	0	0	0
+AxisFont0	MS Shell Dlg 2	8	50	0	0	0
+AxisFont1	MS Shell Dlg 2	8	50	0	0	0
+AxisFont2	MS Shell Dlg 2	8	50	0	0	0
+AxisFont3	MS Shell Dlg 2	8	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_Tensao_Fonte(V)	Table1_Vr/Ir por Vr*I	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	29	1
+scale	0	0	30	0	9	5	0	0
+scale	1	0	30	0	8	5	0	0
 scale	2	0	6	0	8	5	0	0
 scale	3	0	6	0	8	5	0	0
 LabelsFormat	0	4	0	4	0	4	0	4	
@@ -61,7 +269,207 @@ TicksLength	5	9
 DrawAxesBackbone	1
 AxesLineWidth	1
 LabelsRotation	0	0
-<legend>	0.13986013986014	0.2421875	Cantarell	11	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_Amperage	\c{2}LinearFit1	</legend>
+<legend>	0.13986013986014	28.8721804511278	MS Shell Dlg 2	8	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_Vr/Ir por Vr*I</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Graph7	1	1	Thursday, February 17, 2022 12:50:37 AM Pacific Standard Time
+geometry	480	895	160	31	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<graph>
+ggeometry	5	5	473	330
+PlotTitle	Vr / I em funcao de Vr*I<br>Autor: Henrique Pedro da Silva	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Vr * I (A*V)	Resistencia do resistor (Ohms)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	MS Shell Dlg 2	10	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	8	75	0	0	0
+AxisFont0	MS Shell Dlg 2	8	50	0	0	0
+AxisFont1	MS Shell Dlg 2	8	50	0	0	0
+AxisFont2	MS Shell Dlg 2	8	50	0	0	0
+AxisFont3	MS Shell Dlg 2	8	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_Tensao_Fonte(V)	Table1_Vr/Ir por Vr*I	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	29	1
+scale	0	0	30	0	9	5	0	0
+scale	1	0	30	0	8	5	0	0
+scale	2	0	6	0	8	5	0	0
+scale	3	0	6	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	0.13986013986014	28.8721804511278	MS Shell Dlg 2	8	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_Vr/Ir por Vr*I</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Graph8	1	1	Thursday, February 17, 2022 12:52:14 AM Pacific Standard Time
+geometry	320	895	160	31	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	428	271
+Alignement	0	0
+<graph>
+ggeometry	5	5	473	330
+PlotTitle	Vl / I em funcao de Vl * I<br>Autor: Henrique Pedro da Silva	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Vl * I (V*A)	Vl / I (V/A)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	MS Shell Dlg 2	10	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	8	75	0	0	0
+AxisFont0	MS Shell Dlg 2	8	50	0	0	0
+AxisFont1	MS Shell Dlg 2	8	50	0	0	0
+AxisFont2	MS Shell Dlg 2	8	50	0	0	0
+AxisFont3	MS Shell Dlg 2	8	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_3	Table1_1	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	29	1
+scale	0	0.5	4	0	8	5	0	0
+scale	1	0.5	4	0	8	5	0	0
+scale	2	-0.2	0.8	0	6	5	0	0
+scale	3	-0.2	0.8	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	-0.176190476190476	3.8605577689243	MS Shell Dlg 2	8	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_1</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Graph9	1	1	Thursday, February 17, 2022 12:55:22 AM Pacific Standard Time
+geometry	160	895	160	31	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	417	271
+Alignement	0	0
+<graph>
+ggeometry	5	5	473	330
+PlotTitle	(Vl^2) / R(T) por temperatura<br>Autor: Henrique Pedro da Silva	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Temperatura do filamento	Vl^2 / R (T)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	MS Shell Dlg 2	10	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	8	75	0	0	0
+AxisFont0	MS Shell Dlg 2	8	50	0	0	0
+AxisFont1	MS Shell Dlg 2	8	50	0	0	0
+AxisFont2	MS Shell Dlg 2	8	50	0	0	0
+AxisFont3	MS Shell Dlg 2	8	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_5	Table1_6	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	29	1
+scale	0	-0.02	0.14	0	8	5	0	0
+scale	1	-0.02	0.14	0	8	5	0	0
+scale	2	-0.02	0.14	0	8	5	0	0
+scale	3	-0.02	0.14	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	-0.0163133640552995	0.135238095238095	MS Shell Dlg 2	8	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_6</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Graph10	1	1	Thursday, February 17, 2022 2:30:13 AM Pacific Standard Time
+geometry	887	476	500	400	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<graph>
+ggeometry	5	5	473	330
+PlotTitle	Corrente vs tensao no diodo<br>Autor: Henrique Pedro da Silva	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Tensao no diodo (V)	Corrente (A)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	MS Shell Dlg 2	10	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	8	75	0	0	0
+AxisFont0	MS Shell Dlg 2	8	50	0	0	0
+AxisFont1	MS Shell Dlg 2	8	50	0	0	0
+AxisFont2	MS Shell Dlg 2	8	50	0	0	0
+AxisFont3	MS Shell Dlg 2	8	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_Tensao_Diodo(V)	Table1_Corrente_Diodo(A)	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	29	1
+scale	0	-0.05	0.25	0	8	5	0	0
+scale	1	-0.05	0.25	0	8	5	0	0
+scale	2	0	0.8	0	8	5	0	0
+scale	3	0	0.8	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	-0.185915492957747	4.85657370517928	MS Shell Dlg 2	8	50	0	0	0	#ff000000	1	0	#00ffffff	0	\c{1}Table1_Tensao_Lampada(V)</legend>
 </graph>
 </multiLayer>
 <log>
@@ -74,5 +482,63 @@ A (slope) = 0.0416665454545455 +/- 6.80301343048375e-07
 --------------------------------------------------------------------------------------
 Chi^2 = 7.63636363633147e-11
 R^2 = 0.999999999543006
+---------------------------------------------------------------------------------------
+[Wednesday, February 16, 2022 10:30:52 PM Pacific Standard Time	Plot: ''Graph2'']
+Linear Regression fit of dataset: Table1_Amperage, using function: A*x+B
+Y standard errors: Unknown
+From x = 0.5 to x = 5
+B (y-intercept) = 0 +/- 2.1105794120399e-06
+A (slope) = 0.0416665454545455 +/- 6.80301343048375e-07
+--------------------------------------------------------------------------------------
+Chi^2 = 7.63636363633147e-11
+R^2 = 0.999999999543006
+---------------------------------------------------------------------------------------
+[Wednesday, February 16, 2022 10:32:36 PM Pacific Standard Time	Plot: ''Graph2'']
+Linear Regression fit of dataset: Table1_Amperage, using function: A*x+B
+Y standard errors: Unknown
+From x = 0.5 to x = 5
+B (y-intercept) = 0 +/- 2.1105794120399e-06
+A (slope) = 0.0416665454545455 +/- 6.80301343048375e-07
+--------------------------------------------------------------------------------------
+Chi^2 = 7.63636363633147e-11
+R^2 = 0.999999999543006
+---------------------------------------------------------------------------------------
+[Wednesday, February 16, 2022 10:59:51 PM Pacific Standard Time	Plot: ''Graph2'']
+Linear Regression fit of dataset: Table1_Corrente(A), using function: A*x+B
+Y standard errors: Unknown
+From x = 0.5 to x = 5
+B (y-intercept) = 0 +/- 2.1105794120399e-06
+A (slope) = 0.0416665454545455 +/- 6.80301343048375e-07
+--------------------------------------------------------------------------------------
+Chi^2 = 7.63636363633147e-11
+R^2 = 0.999999999543006
+---------------------------------------------------------------------------------------
+[Thursday, February 17, 2022 2:41:13 AM Pacific Standard Time	Plot: ''Graph10'']
+Non-linear fit of dataset: Table1_Corrente_Diodo(A), using function: b*(exp(V/a*Vt)
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 0.09998 to x = 0.72241
+a  = 0 +/- 1.38488605707413e-38
+b  = 0 +/- 3.32274244659498e-156
+--------------------------------------------------------------------------------------
+Chi^2 = -1
+R^2 = 11.8746631412691
+---------------------------------------------------------------------------------------
+Iterations = 520
+Status = invalid argument supplied by user
+---------------------------------------------------------------------------------------
+[Thursday, February 17, 2022 2:41:24 AM Pacific Standard Time	Plot: ''Graph10'']
+Non-linear fit of dataset: Table1_Corrente_Diodo(A), using function: b*(exp(V/a*Vt))
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 0.09998 to x = 0.72241
+a  = 0 +/- nan
+b  = 0 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = nan
+R^2 = nan
+---------------------------------------------------------------------------------------
+Iterations = 0
+Status = iteration is not making progress towards solution
 ---------------------------------------------------------------------------------------
 </log>
